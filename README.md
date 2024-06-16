@@ -35,20 +35,6 @@ The Habit Tracker is an application developed using the MVC architecture with No
 
 - **src/view/images**:This contains all the images used in the application.
 
-## Screenshots
-
-### Home Page
-![Home Page](src/view/images/Habit-Tracker-Home-Page.jpg "Home Page")
-
-### Add Habit Page
-![Add Habit Page](src/view/images/Habit-Tracker-Add-New-Habit-Page.jpg "Add Habit Page")
-
-### Habit List Page
-![Habit List Page](src/view/images/Habit-Tracker-Habit-List-Page.jpg "Habit List Page")
-
-### Record Page
-![Record Page](src/view/images/Habit-Tracker-Record-Page.jpg "Record Page")
-
 
 ## Dependencies
 
@@ -60,16 +46,10 @@ The Habit Tracker is an application developed using the MVC architecture with No
 
 ## Author
 
-- **Akash Verma**
-### Contact ME
-- [LinkedIn](https://www.linkedin.com/in/akash-verma-09aug2000/)
-- [Email Address](mailto:akash.verma217112@gmail.com)
-- [Leetcode](https://leetcode.com/Akash_Verma2000/)
+- **sunil kumar**
   
 
 
-## License
 
-This project is licensed under the ISC License.
 
 
